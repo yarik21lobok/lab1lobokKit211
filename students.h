@@ -10,7 +10,7 @@ public:
 	void set_name(string);
 
 
-	var i = "local commit"
+	var i = "locdsfsdal commit"
 
 private:
 	int scores[5];
