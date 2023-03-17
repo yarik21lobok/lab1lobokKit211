@@ -10,7 +10,7 @@ public:
 	void set_name(string);
 
 
-	var i = "local commit"
+	var i = "main commit"
 
 private:
 	int scores[5];
